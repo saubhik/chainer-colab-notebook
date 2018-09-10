@@ -34,7 +34,7 @@ Official Example
 
    notebook/official_example_en/*
 
-Ohter Examples
+Other Examples
 ---------------
 
 CuPy
